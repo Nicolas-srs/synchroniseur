@@ -12,7 +12,7 @@ Il faut commencer par changer les 3 variables qui se trouvent en début de scrip
 - <i>chemin_absolu</i> correspond à l'endroit où se trouveront les fichiers de journalisation et de conflit.<br/>
 - <i>chemin_branche_A</i> correspond au 1er répertoire à synchroniser.<br/>
 - <i>chemin_branche_B</i> correspond au 2ème répertoire à synchroniser.<br/>
-
+<br/>
 <pre><code>#branches à synchroniser
 chemin_absolu='/home/nicos/'
 chemin_branche_A='/home/nicos/A'
