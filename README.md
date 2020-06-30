@@ -21,7 +21,7 @@ chemin_branche_B='/home/nicos/B'</code></pre>
 Ensuite il suffit de lancer le script <i>./synchroniseur.sh</i><br/>
 
 <h3>Fonctionnement</h3>
-Le script compare les 2 répertoires (A et B). Je considère ainsi pA un fichier/dossier de A et pB un dossier/fichier de B.<br/>
+Le script compare de manière récursive les 2 répertoires (A et B). Je considère ainsi pA un fichier/dossier de A et pB un dossier/fichier de B.<br/>
 Pour tout fichier p il effectue les actions suivantes :<br/>
 <ul>
   <li>Si pA existe et non pB</li>
