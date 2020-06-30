@@ -36,7 +36,7 @@ Dans ce cas le script vous propose un menu de 2 choix, vous pourrez<br/>
   <li>Si pA est un fichier et pB un dossier</li>
  </ul>
 Dans ce cas le script vous propose un menu de choix, vous pourrez<br/>
-- <b>supprimer</b> les 2
+- <b>supprimer</b> les 2.<br/>
 - les <b>transformer en fichier</b> (on supprime celui qui est un dossier pour copier/coller le fichier à la place).<br/>
 - les <b>transformer en dossier</b> (on supprime celui qui est un fichier pour venir copier/coller récursivement le dossier à la place).<br/>
 <br/>
