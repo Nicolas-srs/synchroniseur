@@ -25,9 +25,9 @@ Le script compare les 2 répertoires (A et B). Je considère ainsi pA un fichier
 Pour tout fichier p il effectue les actions suivantes :<br/>
 - Si pA existe et non pB<br/>
 - Si pB existe et non pA<br/>
-Dans ce cas le script vous propose un menu de 2 choix, vous pourrez 
-* **supprimer** le fichier/dossier existant
-* le **synchroniser** il sera ainsi créé dans le répertoire où il n'existe pas encore.<br/>
+Dans ce cas le script vous propose un menu de 2 choix, vous pourrez  
+-**supprimer** le fichier/dossier existant
+-le **synchroniser** il sera ainsi créé dans le répertoire où il n'existe pas encore.<br/>
 <br/>
 - Si pA est un dossier et pB un fichier<br/>
 - Si pA est un fichier et pB un dossier<br/>
