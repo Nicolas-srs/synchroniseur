@@ -6,6 +6,7 @@ Le script *synchroniseur.sh* créér 2 fichiers pour son bon fonctionnement :<br
 - Le fichier de journal *.synchro* contient les chemins des répertoires à synchroniser A et B ainsi que l'historique des synchronisations réussies.<br/>
 - Le fichier de conflits *.journal_conflit* contient les conflits qui ont pu survenir lors d'une synchronisation.
 
+
 <h3>Utilisation</h3>
 Il faut commencer par changer les 3 variables qui se trouvent en début de script afin qu'elles correspondent à votre utilisation.<br/>
 - *chemin_absolu* correspond à l'endroit où se trouveront les fichiers de journalisation et de conflit.<br/>
