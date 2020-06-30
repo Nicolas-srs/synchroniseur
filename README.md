@@ -10,7 +10,7 @@ Le script *synchroniseur.sh* créér 2 fichiers pour son bon fonctionnement :<br
 Il faut commencer par changer les 3 variables qui se trouvent en début de script afin qu'elles correspondent à votre utilisation.<br/>
 - *chemin_absolu* correspond à l'endroit où se trouveront les fichiers de journalisation et de conflit.<br/>
 - *chemin_branche_A* correspond au 1er répertoire à synchroniser.<br/>
-- *chemin_branche_B* correspond au 2ème répertoir à synchroniser.
+- *chemin_branche_B* correspond au 2ème répertoire à synchroniser.
 
 <pre><code>#branches à synchroniser
 chemin_absolu='/home/nicos/'
