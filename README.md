@@ -12,7 +12,7 @@ Il faut commencer par changer les 3 variables qui se trouvent en début de scrip
 - <i>chemin_absolu</i> correspond à l'endroit où se trouveront les fichiers de journalisation et de conflit.<br/>
 - <i>chemin_branche_A</i> correspond au 1er répertoire à synchroniser.<br/>
 - <i>chemin_branche_B</i> correspond au 2ème répertoire à synchroniser.<br/>
-<br/>
+
 <pre><code>#branches à synchroniser
 chemin_absolu='/home/nicos/'
 chemin_branche_A='/home/nicos/A'
@@ -28,7 +28,7 @@ Pour tout fichier p il effectue les actions suivantes :<br/>
   <li>Si pB existe et non pA</li>
 </ul>
 Dans ce cas le script vous propose un menu de 2 choix, vous pourrez<br/>  
-- <b>supprimer</b> le fichier/dossier existant
+- <b>supprimer</b> le fichier/dossier existant.<br/>
 - le <b>synchroniser</b> il sera ainsi créé dans le répertoire où il n'existe pas encore.<br/>
 <br/>
 <ul>
@@ -37,7 +37,7 @@ Dans ce cas le script vous propose un menu de 2 choix, vous pourrez<br/>
  </ul>
 Dans ce cas le script vous propose un menu de choix, vous pourrez<br/>
 - <b>supprimer</b> les 2
-- les <b>transformer en fichier</b> (on supprime celui qui est un dossier pour copier/coller le fichier à la place)
+- les <b>transformer en fichier</b> (on supprime celui qui est un dossier pour copier/coller le fichier à la place).<br/>
 - les <b>transformer en dossier</b> (on supprime celui qui est un fichier pour venir copier/coller récursivement le dossier à la place).<br/>
 <br/>
 <ul>
