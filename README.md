@@ -17,7 +17,7 @@ chemin_absolu='/home/nicos/'
 chemin_branche_A='/home/nicos/A'
 chemin_branche_B='/home/nicos/B'</code></pre>
 
-Ensuite il suffit de lancer le script *./syncrhoniseur.sh*<br/>
+Ensuite il suffit de lancer le script *./synchroniseur.sh*<br/>
 
 <h3>Fonctionnement</h3>
 Le script compare les 2 répertoires (A et B). Je considère ainsi pA un fichier/dossier de A et pB un dossier/fichier de B.<br/>
